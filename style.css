@@ -1,0 +1,66 @@
+#logo {
+	text-align: center;
+	margin: 20px;
+	background-color: rgb(98, 233, 188);
+}
+
+#logo img {
+	height: 175px;
+	width: 200px;
+}
+
+h1 {
+	margin: -10px 0 10px 0;
+	font-size: 50px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: rgb(75, 75, 208);
+}
+
+#formulario {
+	background-color: rgb(177, 177, 177);
+	margin: 20px;
+	padding: 60px;
+
+}
+
+form {
+	background: rgb(201, 199, 199);
+	text-align: center;
+	border-radius: 50px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	width: 350px;
+	height: 350px;
+	margin: auto;
+	padding: 50px;
+}
+
+.entrada {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+.boton {
+	background-color: whitesmoke;
+	border-radius: 100%;
+	width: 140px;
+	height: 140px;
+	margin: 10px;
+}
+
+footer {
+	text-align: center;
+	background-color: gainsboro;
+	margin: 20px;
+	padding: 30px;
+}
+
+#redes,
+img {
+	height: 50px;
+	width: 50px;
+	margin: auto;
+	padding: 10px;
+
+}
