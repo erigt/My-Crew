@@ -1,0 +1,66 @@
+#logo {
+	text-align: center;
+	margin: 20px;
+	background-color: rgb(98, 233, 188);
+}
+
+#logo img {
+	height: 200px;
+	width: 225px;
+}
+
+h1 {
+	margin: -10px 0 10px 0;
+	font-size: 50px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: rgb(75, 75, 208);
+	text-align: unset;
+}
+
+h2 {
+	text-align: center;
+	background-color: aliceblue;
+	margin: 20px;
+	height: 150px;
+	font-style: oblique;
+}
+
+#sec_desarrollo {
+	margin: 20px;
+	background-color: rgb(58, 174, 106);
+	display: flex;
+	padding: 20px;
+}
+
+#sec_desarrollo img {
+	height: 250px;
+	width: 250px;
+	border-radius: 100%;
+	margin: 15px;
+	object-fit: fill;
+}
+
+#sec_desarrollo p {
+	font-size: 40px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: rgb(75, 75, 208);
+	text-align: center;
+	margin: 20px;
+}
+
+h3 {
+	text-align: center;
+	background-color: aliceblue;
+	margin: 20px;
+	height: 150px;
+	font-style: oblique;
+}
+
+footer {
+	text-align: center;
+	background-color: gainsboro;
+	margin: 20px;
+	padding: 30px;
+	font-size: small;
+}
+
